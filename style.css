@@ -1,0 +1,5 @@
+* { box-sizing: border-box; }
+body { font-family: system-ui, sans-serif; margin: 0; color: #222; background: #fff; }
+.banner { background: #fef3c7; padding: 12px 16px; overflow-wrap: anywhere; }
+header, .stats, pre { padding: 12px 16px; min-width: 0; }
+pre { white-space: pre-wrap; width: 100%; overflow-wrap: anywhere; }
